@@ -421,7 +421,7 @@
 
 @media screen and (max-width:321px) {
     body{
-        font-size: 10px;
+        font-size: 12px;
     }
     .radius-div-container{
         justify-content: center;
